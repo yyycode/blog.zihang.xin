@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.zihang.xin/</loc>
-    <lastmod>2021-12-30T13:43:08+08:00</lastmod>
+    <lastmod>2021-12-30T14:15:32+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.zihang.xin/tags/</loc>
+    <lastmod>2021-12-30T14:15:32+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.zihang.xin/categories/</loc>
+    <lastmod>2021-12-30T14:15:12+08:00</lastmod>
   </url><url>
     <loc>https://blog.zihang.xin/posts/</loc>
     <lastmod>2021-12-30T13:43:08+08:00</lastmod>
@@ -13,9 +19,5 @@
   </url><url>
     <loc>https://blog.zihang.xin/about/</loc>
     <lastmod>2021-12-30T13:42:48+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.zihang.xin/categories/</loc>
-  </url><url>
-    <loc>https://blog.zihang.xin/tags/</loc>
   </url>
 </urlset>
