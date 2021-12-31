@@ -21,8 +21,10 @@
 <script>
     if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
         document.documentElement.classList.add('dark')
+        localStorage.theme = "dark";
     } else {
         document.documentElement.classList.remove('dark')
+        localStorage.theme = "light";
     }
 </script><body class='text-zinc-800 dark:text-zinc-200 bg-zinc-200 dark:bg-zinc-800'>
         <div class='container relative m-auto'>
